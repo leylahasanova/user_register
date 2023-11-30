@@ -10,7 +10,7 @@ body {
     margin: 20px auto;
     background-color: rgb(237, 237, 237);
     width: 420px;
-    height: 480px;
+    height: 430px;
     padding: 20px 0px;
 }
 .container {
@@ -41,6 +41,7 @@ input {
 label {
     color: rgb(0, 94, 172);
     font-weight: bold;
+   
 }
 form>div {
     padding: 5px;
